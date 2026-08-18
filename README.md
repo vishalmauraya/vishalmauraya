@@ -18,3 +18,18 @@ I'm a **Flutter Developer** passionate about building high-performance, pixel-pe
 
 ### 🛠️ Tech Stack & Toolkit
 
+
+---
+
+### 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalmauraya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vishal's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmauraya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="150" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Feel free to explore my repositories and reach out for collaboration!</i>
+</p>
